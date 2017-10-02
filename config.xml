@@ -48,8 +48,8 @@
 	
 	<plugin name="cordova-plugin-whitelist"           source="npm" spec="~1.2.1" />
 
-  <access origin="http://www.bestweb.com.my/*" />
+  <access origin="https://bestweb.com.my/suriamuhabat/*" />
   <allow-navigation href="http://www.bestweb.com.my/*"/>
   <allow-navigation href="https://www.google.com/maps/embed/*" />
-  <allow-intent href="http://www.bestweb.com.my/*"/>
+  <allow-intent href="https://bestweb.com.my/suriamuhabat/*"/>
 </widget>
